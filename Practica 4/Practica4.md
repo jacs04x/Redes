@@ -85,7 +85,7 @@ Opciones
   opción individualmente. Sólo es necesario utilizar esta opción si el final de las
   opciones no coincidirá con el final de la cabecera TCP.
 > No Operation (Sin operación) Indica cuales son los límites entre las opciones. 
-	No existe ninguna garantía de que los remitentes vayan a utilizar esta opción, de modo que los 	     destinatarios deben estar preparados para procesar opciones incluso aunque éstas no empiecen en       un límite de palabra.
+	No existe ninguna garantía de que los remitentes vayan a utilizar esta opción, de modo que los destinatarios deben estar preparados para procesar opciones incluso aunque éstas no empiecen en un límite de palabra.
 > Maximum Segment Size (Tamaño máximo de segmento) Indica cual es el tamaño máximo de segmento que TCP puede recibir. Esto sólo se envía en la petición de conexión inicial
 
 ```
