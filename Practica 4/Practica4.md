@@ -4,7 +4,7 @@ Castro Mejía Jonatan Alejandro
 
 # UDP
 
-![](C:\Users\Lenovo\Documents\GitHub\Redes\img\image-20220123212023861.png)
+![](https://github.com/jacs04x/Redes/blob/main/img/image-20220123212023861.png)
 
 ```markdown
 Puerto de Origen
@@ -34,7 +34,7 @@ Para genera checksum son empleadas algunas partes de:
 
 # TCP 
 
-![](C:\Users\Lenovo\Documents\GitHub\Redes\img\image-20220123210145179.png)
+![](https://github.com/jacs04x/Redes/blob/main/img/image-20220123210145179.png)
 
 ```markdown
 Puerto de origen
@@ -92,13 +92,13 @@ Opciones
 
 # ICMP
 
-![](C:\Users\Lenovo\Documents\GitHub\Redes\img\image-20220123213330135.png)
+![](https://github.com/jacs04x/Redes/blob/main/img/image-20220123213330135.png)
 
 ```markdown
 Tipo 
 ```
 
-![](C:\Users\Lenovo\Documents\GitHub\Redes\img\image-20220123213525373.png)
+![](https://github.com/jacs04x/Redes/blob/main/img/image-20220123213525373.png)
 
 ```markdown
 Código 
